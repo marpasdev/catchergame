@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Marek/source/repos/CatcherGame/CatcherGame/Content/Crate.png","C:/Users/Marek/source/repos/CatcherGame/CatcherGame/Content/bin/DesktopGL/Content/Crate.xnb","TextureProcessor","Texture2DContent",916,4181,0.3363403
+"C:/Users/Marek/source/repos/CatcherGame/CatcherGame/Content/File.spritefont","C:/Users/Marek/source/repos/CatcherGame/CatcherGame/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.2552342
+"C:/Users/Marek/source/repos/CatcherGame/CatcherGame/Content/Platform.png","C:/Users/Marek/source/repos/CatcherGame/CatcherGame/Content/bin/DesktopGL/Content/Platform.xnb","TextureProcessor","Texture2DContent",168,10085,0.2013121

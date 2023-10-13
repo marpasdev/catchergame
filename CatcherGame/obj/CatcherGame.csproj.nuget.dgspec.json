@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marek\\source\\repos\\CatcherGame\\CatcherGame\\CatcherGame.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marek\\source\\repos\\CatcherGame\\CatcherGame\\CatcherGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marek\\source\\repos\\CatcherGame\\CatcherGame\\CatcherGame.csproj",
+        "projectName": "CatcherGame",
+        "projectPath": "C:\\Users\\Marek\\source\\repos\\CatcherGame\\CatcherGame\\CatcherGame.csproj",
+        "packagesPath": "C:\\Users\\Marek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marek\\source\\repos\\CatcherGame\\CatcherGame\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Marek\\source\\repos\\MarpasEngine\\MarpasEngine\\MarpasEngine.csproj": {
+                "projectPath": "C:\\Users\\Marek\\source\\repos\\MarpasEngine\\MarpasEngine\\MarpasEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marek\\source\\repos\\MarpasEngine\\MarpasEngine\\MarpasEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marek\\source\\repos\\MarpasEngine\\MarpasEngine\\MarpasEngine.csproj",
+        "projectName": "MarpasEngine",
+        "projectPath": "C:\\Users\\Marek\\source\\repos\\MarpasEngine\\MarpasEngine\\MarpasEngine.csproj",
+        "packagesPath": "C:\\Users\\Marek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marek\\source\\repos\\MarpasEngine\\MarpasEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
